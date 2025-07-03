@@ -8,7 +8,8 @@ This project uses **Teachable Machine by Google** to train a custom image classi
 - `keras_Model.h5` → The trained model
 - `labels.txt` → Class labels
 - `predict.py` → Python script to load and test the model
-- `test.jpg` → Sample image for prediction
+- `test3.jpg` → Sample image for prediction
+-`Screenshot 2025-07-03 163924.png` → Screenshot of the prediction result
 
 ## 🚀 How to Run
 1. Make sure you have Python and the required libraries:
@@ -25,7 +26,7 @@ Confidence Score: 92.35%
 
 📸 Sample Output
 Here’s a screenshot of the prediction result:
-![Prediction Output](images/output_screenshot.png)
+![Prediction Output](Screenshot%202025-07-03%20163924.png)
 
 💡 Tools Used
 Teachable Machine (image model)
