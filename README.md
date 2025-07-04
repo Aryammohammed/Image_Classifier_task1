@@ -9,7 +9,7 @@ This project uses **Teachable Machine by Google** to train a custom image classi
 - `labels.txt` → Class labels
 - `predict.py` → Python script to load and test the model
 - `test3.jpg` → Sample image for prediction
--`Screenshot 2025-07-03 163924.png` → Screenshot of the prediction result
+-`Screenshot` → Screenshot of the prediction result
 
 ## 🚀 How to Run
 1. Make sure you have Python and the required libraries:
